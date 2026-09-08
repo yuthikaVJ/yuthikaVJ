@@ -23,7 +23,7 @@
 
 <image alt = "Snake GIF" src = "https://github.com/null3000/null3000/blob/output/github-contribution-grid-snake.svg">
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=realsteelxx&show_icons=true&locale=en&layout=compact" alt="realsteelxx" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yuthikaVJ&show_icons=true&locale=en&layout=compact" alt="yuthikaVJ" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yuthikaVJ&show_icons=true&locale=en" alt="yuthikaVJ" /></p>
 
