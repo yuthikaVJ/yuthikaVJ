@@ -27,5 +27,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=realsteelxx&show_icons=true&locale=en" alt="realsteelxx" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=realsteelxx&" alt="realsteelxx" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yuthikaVJ&" alt="yuthikaVJ" /></p>
 
