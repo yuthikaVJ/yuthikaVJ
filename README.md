@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yuthika Jathunarachchi</h1>
 
 
-<h3 align="center">A passionate Devops Engineer from Sri Lanka</h3>
+<h3 align="center">A passionate Devops & Software Engineer from Sri Lanka</h3>
 
 
 
