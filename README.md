@@ -3,7 +3,7 @@
 
 <h3 align="center">A passionate Devops Engineer from Sri Lanka</h3>
 
-<image align ="right" alt="Coding" width="400" src="https://media.licdn.com/dms/image/D4E12AQExf6tDJ_zg8Q/article-cover_image-shrink_600_2000/0/1716280050247?e=2147483647&v=beta&t=ktoc6sP4BXnUKpP6E3DRW3zrSINpFBDO1UU4j5Fkk78">
+
 
 
 
